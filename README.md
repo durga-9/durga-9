@@ -45,7 +45,7 @@ I enjoy learning emerging technologies and building practical, real-world projec
 ---
 
 ### 📚 Library Management System (Java Console App)  
-**Tech Stack:** Java  
+**Tech Stack:** Java 
 - Console-based application to manage books and users  
 - Features include add/view/delete books, borrow/return system  
 - Applied **OOP principles** and Java Collections  

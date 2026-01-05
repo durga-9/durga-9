@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Durga Prasad Dasari  
 
-🚀 *Aspiring Software Engineer | Data Analytics Enthusiast | MCA Graduate*  
+🚀 *Aspiring Software Engineer | MCA Graduate*  
 
 I’m a motivated and detail-oriented **MCA graduate** with a strong foundation in **software development, data analytics, and problem-solving**.  
 I enjoy learning emerging technologies and building practical, real-world projects that create impact.

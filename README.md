@@ -101,7 +101,6 @@ I enjoy learning emerging technologies and building practical, real-world projec
 - 📧 Email: **dasaridurgaprasad443@gmail.com**  
 - 📞 Phone: **+91 6303107215**  
 - 💼 LinkedIn: [Durga Prasad Dasari](https://www.linkedin.com/in/durga-prasad-dasari-811297272)  
-- 🧑‍💻 GitHub: [github.com/durga-9](https://github.com/durga-9)
 
 ---
 
